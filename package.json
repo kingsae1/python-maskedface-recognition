@@ -1,0 +1,16 @@
+{
+  "name": "python.recognition.face",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "conda activate recognition",
+    "end": "conda deactivate",
+    "info": "conda info --envs",
+    "freeze": "pip freeze > requirements.txt",
+    "install": "pip install -r requirements.txt",
+    "uninstall": "pip uninstall -r requirements.txt"
+  },
+  "author": "seewan.park@kt.com",
+  "license": "ISC"
+}

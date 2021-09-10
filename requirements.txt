@@ -1,0 +1,6 @@
+certifi==2021.5.30
+dlib @ file:///D:/Download/dlib-19.8.1-cp36-cp36m-win_amd64.whl
+numpy==1.19.5
+opencv-python==4.5.3.56
+Pillow==8.3.1
+wincertstore==0.2
